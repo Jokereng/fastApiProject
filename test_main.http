@@ -1,0 +1,11 @@
+# Test your FastAPI endpoints
+
+GET https://rpc.data.kava.io/block?height=5786655
+Accept: application/json
+
+###
+
+GET say_hello
+Accept: application/json
+
+###
